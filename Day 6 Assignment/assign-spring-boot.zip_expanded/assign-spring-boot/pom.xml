@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tcs</groupId>
-	<artifactId>ass-spring-boot</artifactId>
+	<artifactId>assign-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ass-spring-boot</name>
 	<description>Assign project for Spring Boot</description>
